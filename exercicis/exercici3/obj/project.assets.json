@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Coral Planagumà\\.nuget\\packages\\": {}
+    "C:\\Users\\casie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici3\\exercici3.csproj",
+      "projectUniqueName": "C:\\Users\\casie\\OneDrive\\Documentos\\DAW\\DAW_PR\\EXERCICI_1\\1-programes-basics-Casiexpo\\exercicis\\exercici3\\exercici3.csproj",
       "projectName": "exercici3",
-      "projectPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici3\\exercici3.csproj",
-      "packagesPath": "C:\\Users\\Coral Planagumà\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici3\\obj\\",
+      "projectPath": "C:\\Users\\casie\\OneDrive\\Documentos\\DAW\\DAW_PR\\EXERCICI_1\\1-programes-basics-Casiexpo\\exercicis\\exercici3\\exercici3.csproj",
+      "packagesPath": "C:\\Users\\casie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\casie\\OneDrive\\Documentos\\DAW\\DAW_PR\\EXERCICI_1\\1-programes-basics-Casiexpo\\exercicis\\exercici3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coral Planagumà\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\casie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

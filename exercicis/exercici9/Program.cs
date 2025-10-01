@@ -7,6 +7,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("QUIN NÚMERO VOLS CONVERTIR?");
+        var input1 = Console.ReadLine();
+        float Metres = Convert.ToInt16(input1);
+
+        
     }
 }

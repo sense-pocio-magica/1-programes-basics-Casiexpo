@@ -8,6 +8,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quin es el teu Nom?");
+        string nom = Console.ReadLine();
+
+        Console.WriteLine("Quin es el teu Any de naixement?");
+        string InputAny = Console.ReadLine();
+        int AnyNaixement = Convert.ToInt16(InputAny);
+
+        int AnyActual = 2025;
+        //AnyActual = Convert.ToInt16(AnyActual);
+        int edat = AnyActual - AnyNaixement;
+
+        Console.WriteLine($"Hola {nom}!  Ja tens {edat} anys? ");
     }
 }
