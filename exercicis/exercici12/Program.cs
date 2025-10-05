@@ -27,6 +27,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el primer número: ");
+        int num_1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Entra el segon número: ");
+        int num_2 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine($"{num_1} + {num_2} = {num_1 + num_2}");
+        Console.WriteLine($"{num_1} - {num_2} = {num_1 - num_2}");
+        Console.WriteLine($"{num_1} * {num_2} = {num_1 * num_2}");
+        Console.WriteLine($"{num_1} / {num_2} = {num_1 / num_2}  i en sobre/n {num_1 % num_2}");
     }
 }
