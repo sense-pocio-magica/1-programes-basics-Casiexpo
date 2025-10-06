@@ -19,10 +19,10 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Quin es el teu Nom?");
-        string nom = Console.ReadLine();
+        var nom = Console.ReadLine();
 
         Console.WriteLine("Quin es el teu Cognom?");
-        string Cognom = Console.ReadLine();
+        var Cognom = Console.ReadLine();
 
         Console.WriteLine($"Em dic {Cognom}, {nom} {Cognom}");
     }
