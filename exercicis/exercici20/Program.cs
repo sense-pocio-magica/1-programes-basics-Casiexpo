@@ -12,7 +12,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Entra el número a invertir (3 xifres): ");
+        Console.Write("Entra el número a invertir: ");
         string numero = Console.ReadLine();
 
         char[] digits = numero.ToCharArray();
