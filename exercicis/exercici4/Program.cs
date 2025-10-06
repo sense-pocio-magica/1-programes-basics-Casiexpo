@@ -10,7 +10,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        const double conversio = 166.386;
+
+        Console.Write("Introdueix el preu en euros: ");
+        double euros = Convert.ToDouble(Console.ReadLine());
+
+        int pessetes = (int)(euros * conversio);
+
+        Console.WriteLine($"{euros} € equivalen a {pessetes} pessetes");
         
     }
 }

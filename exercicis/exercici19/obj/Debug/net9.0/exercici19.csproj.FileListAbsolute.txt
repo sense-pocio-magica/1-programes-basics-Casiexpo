@@ -1,0 +1,15 @@
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\bin\Debug\net9.0\exercici19.exe
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\bin\Debug\net9.0\exercici19.deps.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\bin\Debug\net9.0\exercici19.runtimeconfig.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\bin\Debug\net9.0\exercici19.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\bin\Debug\net9.0\exercici19.pdb
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfoInputs.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfo.cs
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.csproj.CoreCompileInputs.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.sourcelink.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\refint\exercici19.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.pdb
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\exercici19.genruntimeconfig.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici19\obj\Debug\net9.0\ref\exercici19.dll

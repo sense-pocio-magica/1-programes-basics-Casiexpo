@@ -6,6 +6,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nomProducte = "Ordinador portàtil";
+        double preu = 799.99;
+        bool enEstoc = false;
+
+        Console.WriteLine($"Producte: {nomProducte}");
+        Console.WriteLine($"Preu: {preu} €");
+        Console.WriteLine($"En estoc: {(enEstoc ? "Sí" : "No")}");
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\bin\Debug\net9.0\exercici7.exe
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\bin\Debug\net9.0\exercici7.deps.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\bin\Debug\net9.0\exercici7.runtimeconfig.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\bin\Debug\net9.0\exercici7.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\bin\Debug\net9.0\exercici7.pdb
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.AssemblyInfoInputs.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.AssemblyInfo.cs
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.csproj.CoreCompileInputs.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.sourcelink.json
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\refint\exercici7.dll
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.pdb
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\exercici7.genruntimeconfig.cache
+C:\Users\casie\OneDrive\Documentos\DAW\DAW_PR\EXERCICI_1\1-programes-basics-Casiexpo\exercicis\exercici7\obj\Debug\net9.0\ref\exercici7.dll

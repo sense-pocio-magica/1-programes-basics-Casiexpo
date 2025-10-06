@@ -17,6 +17,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra la data sense formatar (ddmmaaaa): ");
+        string data = Console.ReadLine();
+
+        string dia = data.Substring(0, 2);
+        string mes = data.Substring(2, 2);
+        string any = data.Substring(4, 4);
+
+        Console.WriteLine($"La data és {dia}/{mes}/{any}");
     }
 }

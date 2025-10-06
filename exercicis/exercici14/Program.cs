@@ -5,6 +5,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix una paraula: ");
+        string paraula = Console.ReadLine();
+
+        if (string.IsNullOrEmpty(paraula))
+        {
+            Console.WriteLine("No has introduït cap paraula!");
+        }
+        else
+        {
+            char primera = paraula[0];
+            char ultima = paraula[paraula.Length - 1];
+            char mig = paraula[paraula.Length / 2];
+
+            Console.WriteLine($"Primera lletra: {primera}");
+            Console.WriteLine($"Lletra del mig: {mig}");
+            Console.WriteLine($"Última lletra: {ultima}");
+        }
     }
 }
